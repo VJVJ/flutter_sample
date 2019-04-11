@@ -1,6 +1,6 @@
 # news
 
-An showing data fetching.
+App showing data fetching.
 
 ## Getting Started
 
